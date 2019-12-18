@@ -3,10 +3,10 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/JiangJibo/spring-cloud-common/
+          uri: https://github.com/hanjunchao-github/spring-cloud/tree/test
           searchPaths: profile,profile/bank,profile/respo
-          username:
-          password:
+          username: hanjunchao-github
+          password: xiaohan-0614
         prefix: spring-cloud/config
       label: master
 
